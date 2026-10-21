@@ -1,5 +1,4 @@
 const fs = require("node:fs")
-const path = require("node:path")
 
 const lagu = ["Ed Sheeran - Thinking Out Loud.mp3",
     "Ed Sheeran - Shape of You.mp3",
